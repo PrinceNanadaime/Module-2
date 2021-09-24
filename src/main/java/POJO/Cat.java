@@ -1,4 +1,6 @@
-public class HelloWorld {
+package POJO;
+
+public class Cat {
 
     private String message;
 
@@ -11,5 +13,4 @@ public class HelloWorld {
 
         this.message = message;
     }
-
 }
