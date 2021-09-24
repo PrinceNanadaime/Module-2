@@ -15,7 +15,5 @@ public class App {
 
         System.out.println(bean.equals(bean2));
         System.out.println(bean3.equals(bean4));
-
-
     }
 }

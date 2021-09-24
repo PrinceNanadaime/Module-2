@@ -19,6 +19,4 @@ public class AppConfig {
         cat.setMessage("hi");
         return cat;
     }
-
-
 }
